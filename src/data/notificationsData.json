@@ -1,0 +1,93 @@
+{
+    "unreadCount": 3,
+    "notifications": [
+        {
+            "id": "notif_001",
+            "title": "Home Loan Application Submitted",
+            "description": "Your mortgage request is under review",
+            "category": "Credit & Loans",
+            "timestamp": "2m ago",
+            "isRead": false,
+            "dateGroup": "Today",
+            "icon": "home-outline",
+            "color": "#ea580c"
+        },
+        {
+            "id": "notif_002",
+            "title": "HYSA Account Opened",
+            "description": "Your High Yield Savings Account is now active",
+            "category": "Account & Asset",
+            "timestamp": "1h ago",
+            "isRead": false,
+            "dateGroup": "Today",
+            "icon": "card-outline",
+            "color": "#4f46e5"
+        },
+        {
+            "id": "notif_003",
+            "title": "Funds Allocated to HYSA",
+            "description": "$25,000 allocated from primary account",
+            "category": "Account & Asset",
+            "timestamp": "3h ago",
+            "isRead": false,
+            "dateGroup": "Today",
+            "icon": "swap-horizontal-outline",
+            "color": "#16a34a"
+        },
+        {
+            "id": "notif_004",
+            "title": "KYC Verification Completed",
+            "description": "Your identity verification was successful",
+            "category": "Security & Compliance",
+            "timestamp": "Yesterday",
+            "isRead": true,
+            "dateGroup": "Yesterday",
+            "icon": "shield-checkmark-outline",
+            "color": "#059669"
+        },
+        {
+            "id": "notif_005",
+            "title": "Advisor Assigned",
+            "description": "Sarah Jenkins assigned as wealth advisor",
+            "category": "Advisor & System",
+            "timestamp": "Yesterday",
+            "isRead": true,
+            "dateGroup": "Yesterday",
+            "icon": "person-outline",
+            "color": "#01205f"
+        },
+        {
+            "id": "notif_006",
+            "title": "New Device Login Detected",
+            "description": "Login from Chrome on Windows 11",
+            "category": "Security & Compliance",
+            "timestamp": "2 days ago",
+            "isRead": true,
+            "dateGroup": "This Week",
+            "icon": "finger-print-outline",
+            "color": "#dc2626"
+        },
+        {
+            "id": "notif_007",
+            "title": "Trust Documents Approved",
+            "description": "Legal team has verified your trust setup",
+            "category": "Business & Trust",
+            "timestamp": "3 days ago",
+            "isRead": true,
+            "dateGroup": "This Week",
+            "icon": "document-text-outline",
+            "color": "#2563eb"
+        },
+        {
+            "id": "notif_008",
+            "title": "Sage Loan Approved",
+            "description": "Short-term credit line active",
+            "category": "Credit & Loans",
+            "timestamp": "1 week ago",
+            "isRead": true,
+            "dateGroup": "Earlier",
+            "icon": "cash-outline",
+            "color": "#d97706"
+        }
+    ]
+}

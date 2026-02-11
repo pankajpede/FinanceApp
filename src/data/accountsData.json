@@ -1,0 +1,25 @@
+{
+    "accounts": [
+        {
+            "id": "1",
+            "name": "Main Savings",
+            "type": "savings",
+            "balance": 14500,
+            "currency": "USD"
+        },
+        {
+            "id": "2",
+            "name": "Growth Fund",
+            "type": "investment",
+            "balance": 8000,
+            "currency": "USD"
+        },
+        {
+            "id": "3",
+            "name": "Crypto Wallet",
+            "type": "other",
+            "balance": 2000,
+            "currency": "USD"
+        }
+    ]
+}

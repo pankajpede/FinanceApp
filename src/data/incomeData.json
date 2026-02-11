@@ -1,0 +1,25 @@
+{
+    "income": [
+        {
+            "id": "1",
+            "source": "Salary",
+            "amount": 6500,
+            "date": "2024-03-01",
+            "frequency": "monthly"
+        },
+        {
+            "id": "2",
+            "source": "Freelance Project",
+            "amount": 1500,
+            "date": "2024-03-15",
+            "frequency": "variable"
+        },
+        {
+            "id": "3",
+            "source": "Dividends",
+            "amount": 200,
+            "date": "2024-03-20",
+            "frequency": "quarterly"
+        }
+    ]
+}

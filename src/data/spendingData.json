@@ -1,0 +1,24 @@
+{
+    "breakdown": [
+        {
+            "category": "Housing",
+            "amount": 1500,
+            "color": "#4f46e5"
+        },
+        {
+            "category": "Food & Dining",
+            "amount": 800,
+            "color": "#16a34a"
+        },
+        {
+            "category": "Transport",
+            "amount": 600,
+            "color": "#f59e0b"
+        },
+        {
+            "category": "Utilities & Others",
+            "amount": 500,
+            "color": "#94a3b8"
+        }
+    ]
+}

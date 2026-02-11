@@ -1,0 +1,12 @@
+{
+    "loans": [
+        {
+            "id": "1",
+            "type": "Personal Loan",
+            "balance": 4500,
+            "emi": 200,
+            "totalAmount": 10000,
+            "paidAmount": 5500
+        }
+    ]
+}

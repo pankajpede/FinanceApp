@@ -1,0 +1,11 @@
+{
+    "creditCards": [
+        {
+            "id": "1",
+            "name": "Platinum Card",
+            "limit": 15000,
+            "used": 1200,
+            "dueDate": "2024-03-25"
+        }
+    ]
+}

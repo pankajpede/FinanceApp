@@ -1,0 +1,125 @@
+{
+    "categories": [
+        {
+            "id": "accounts_assets",
+            "title": "Accounts & Assets",
+            "actions": [
+                {
+                    "id": "open_account",
+                    "label": "Open New Account",
+                    "description": "HYSA, Business or Trust account",
+                    "icon": "card-outline",
+                    "color": "#4f46e5"
+                },
+                {
+                    "id": "add_external",
+                    "label": "Add External Account",
+                    "description": "Link another bank or investment account",
+                    "icon": "link-outline",
+                    "color": "#0ea5e9"
+                },
+                {
+                    "id": "transfer_assets",
+                    "label": "Transfer Assets",
+                    "description": "Move funds between your accounts",
+                    "icon": "swap-horizontal-outline",
+                    "color": "#16a34a"
+                }
+            ]
+        },
+        {
+            "id": "credit_loans",
+            "title": "Credit & Loans",
+            "actions": [
+                {
+                    "id": "home_loan",
+                    "label": "Apply for Home Loan",
+                    "description": "Mortgage and housing finance",
+                    "icon": "home-outline",
+                    "color": "#ea580c"
+                },
+                {
+                    "id": "sage_loan",
+                    "label": "Apply for Sage Loan",
+                    "description": "Short-term or structured credit",
+                    "icon": "cash-outline",
+                    "color": "#d97706"
+                },
+                {
+                    "id": "custom_credit",
+                    "label": "Request Customized Credit",
+                    "description": "Tailored credit solutions",
+                    "icon": "create-outline",
+                    "color": "#9333ea"
+                }
+            ]
+        },
+        {
+            "id": "investments_growth",
+            "title": "Investments & Growth",
+            "actions": [
+                {
+                    "id": "allocate_funds",
+                    "label": "Allocate Funds",
+                    "description": "Distribute surplus into savings",
+                    "icon": "pie-chart-outline",
+                    "color": "#059669"
+                },
+                {
+                    "id": "savings_goal",
+                    "label": "Set Savings Goal",
+                    "description": "Plan and track financial goals",
+                    "icon": "flag-outline",
+                    "color": "#dc2626"
+                }
+            ]
+        },
+        {
+            "id": "business_trust",
+            "title": "Business & Trust",
+            "actions": [
+                {
+                    "id": "create_business",
+                    "label": "Create Business Account",
+                    "description": "Set up an account for your business",
+                    "icon": "briefcase-outline",
+                    "color": "#475569"
+                },
+                {
+                    "id": "create_trust",
+                    "label": "Create Trust Account",
+                    "description": "Set up a trust structure",
+                    "icon": "shield-checkmark-outline",
+                    "color": "#2563eb"
+                },
+                {
+                    "id": "add_signer",
+                    "label": "Add Authorized Signer",
+                    "description": "Manage signers or trustees",
+                    "icon": "person-add-outline",
+                    "color": "#db2777"
+                }
+            ]
+        },
+        {
+            "id": "support",
+            "title": "Support",
+            "actions": [
+                {
+                    "id": "continue_application",
+                    "label": "Continue Application",
+                    "description": "Resume a pending request",
+                    "icon": "document-text-outline",
+                    "color": "#64748b"
+                },
+                {
+                    "id": "talk_to_advisor",
+                    "label": "Talk to Advisor",
+                    "description": "Connect with a financial expert",
+                    "icon": "headset-outline",
+                    "color": "#01205f"
+                }
+            ]
+        }
+    ]
+}

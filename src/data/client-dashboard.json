@@ -1,0 +1,150 @@
+{
+    "balance": {
+        "amount": 20000,
+        "currency": "US Dollar",
+        "currencyCode": "USD"
+    },
+    "accountSummary": {
+        "portfolioSnapshot": {
+            "totalBalance": 2329996,
+            "averageBalance": 12460,
+            "numberOfAccounts": 187
+        },
+        "statusTracker": [
+            {
+                "client": "Roger Bennet",
+                "type": "HYSA",
+                "status": "KYC Pending",
+                "statusColor": "warning"
+            },
+            {
+                "client": "James Anderson",
+                "type": "Checking",
+                "status": "Active",
+                "statusColor": "success"
+            },
+            {
+                "client": "Sarah Palin",
+                "type": "HYSA",
+                "status": "Funding Pending",
+                "statusColor": "info"
+            }
+        ],
+        "actionRequired": {
+            "show": true,
+            "title": "Pending KYC",
+            "description": "2 accounts require KYC completion",
+            "cta": "Review Now"
+        }
+    },
+    "hysaOverview": {
+        "distribution": [
+            {
+                "client": "Noel Anto",
+                "balance": 804841
+            },
+            {
+                "client": "Fernando Valero",
+                "balance": 653563
+            },
+            {
+                "client": "Others",
+                "balance": 500000
+            }
+        ],
+        "topClients": [
+            {
+                "name": "Noel Anto",
+                "balance": 804841,
+                "percentage": 34
+            },
+            {
+                "name": "Fernando Valero",
+                "balance": 653563,
+                "percentage": 28
+            },
+            {
+                "name": "Others",
+                "balance": 500000,
+                "percentage": 22
+            }
+        ],
+        "openedYTD": {
+            "count": 187,
+            "trend": "up"
+        }
+    },
+    "cashFlow": {
+        "summary": {
+            "inflows": 401110,
+            "outflows": 500,
+            "net": 400610
+        },
+        "monthly": [
+            {
+                "month": "Jan",
+                "inflows": 400000,
+                "outflows": 0
+            },
+            {
+                "month": "Feb",
+                "inflows": 0,
+                "outflows": 500
+            },
+            {
+                "month": "Mar",
+                "inflows": 12000,
+                "outflows": 400
+            },
+            {
+                "month": "Apr",
+                "inflows": 5000,
+                "outflows": 1200
+            }
+        ],
+        "transactions": [
+            {
+                "type": "Individual",
+                "account": "XXXX6788",
+                "amount": 60,
+                "status": "Pending"
+            },
+            {
+                "type": "Corporate",
+                "account": "XXXX9921",
+                "amount": -1200,
+                "status": "Completed"
+            }
+        ]
+    },
+    "transactions": [
+        {
+            "id": "1",
+            "title": "Spending",
+            "amount": -500,
+            "type": "expense",
+            "icon": "wallet-outline"
+        },
+        {
+            "id": "2",
+            "title": "Income",
+            "amount": 3000,
+            "type": "income",
+            "icon": "cash-outline"
+        },
+        {
+            "id": "3",
+            "title": "Bills",
+            "amount": -800,
+            "type": "expense",
+            "icon": "receipt-outline"
+        },
+        {
+            "id": "4",
+            "title": "Savings",
+            "amount": 1000,
+            "type": "income",
+            "icon": "piggy-bank-outline"
+        }
+    ]
+}

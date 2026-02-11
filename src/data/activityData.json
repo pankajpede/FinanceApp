@@ -1,0 +1,64 @@
+{
+    "activities": [
+        {
+            "id": "act_001",
+            "title": "HYSA Account Opened",
+            "subtitle": "High Yield Savings Account",
+            "date": "2024-03-15",
+            "category": "Account Event",
+            "status": "Completed",
+            "icon": "card-outline",
+            "color": "#4f46e5"
+        },
+        {
+            "id": "act_002",
+            "title": "Home Loan Application Submitted",
+            "subtitle": "Mortgage request under review",
+            "date": "2024-03-14",
+            "category": "Credit & Loan",
+            "status": "In Progress",
+            "icon": "home-outline",
+            "color": "#ea580c"
+        },
+        {
+            "id": "act_003",
+            "title": "Funds Allocated to HYSA",
+            "subtitle": "$25,000 allocated from primary account",
+            "date": "2024-03-12",
+            "category": "Asset Movement",
+            "status": "Completed",
+            "icon": "swap-horizontal-outline",
+            "color": "#16a34a"
+        },
+        {
+            "id": "act_004",
+            "title": "Advisor Assigned",
+            "subtitle": "Sarah Jenkins assigned as wealth advisor",
+            "date": "2024-03-10",
+            "category": "Advisory Update",
+            "status": "Completed",
+            "icon": "person-outline",
+            "color": "#01205f"
+        },
+        {
+            "id": "act_005",
+            "title": "Trust Account Under Review",
+            "subtitle": "Documents pending verification",
+            "date": "2024-03-08",
+            "category": "Business & Trust",
+            "status": "Action Required",
+            "icon": "shield-checkmark-outline",
+            "color": "#dc2626"
+        },
+        {
+            "id": "act_006",
+            "title": "Sage Loan Approved",
+            "subtitle": "Short-term credit line active",
+            "date": "2024-03-05",
+            "category": "Credit & Loan",
+            "status": "Completed",
+            "icon": "cash-outline",
+            "color": "#d97706"
+        }
+    ]
+}

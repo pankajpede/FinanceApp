@@ -1,0 +1,36 @@
+{
+    "profile": {
+        "user": {
+            "name": "Alex Johnson",
+            "email": "alex.j@example.com",
+            "memberSince": "2022",
+            "avatarUrl": "https://randomuser.me/api/portraits/men/32.jpg"
+        },
+        "settings": [
+            {
+                "id": "s1",
+                "label": "Account Settings",
+                "icon": "settings-outline",
+                "action": "account"
+            },
+            {
+                "id": "s2",
+                "label": "Notifications",
+                "icon": "notifications-outline",
+                "action": "notifications"
+            },
+            {
+                "id": "s3",
+                "label": "Privacy & Security",
+                "icon": "shield-checkmark-outline",
+                "action": "privacy"
+            },
+            {
+                "id": "s4",
+                "label": "Help & Support",
+                "icon": "help-circle-outline",
+                "action": "support"
+            }
+        ]
+    }
+}

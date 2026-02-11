@@ -1,0 +1,38 @@
+{
+    "insights": {
+        "summary": {
+            "savingsGrowth": 12.5,
+            "monthlyAverage": 2400,
+            "totalSavings": 45000,
+            "projectedSavings": 48500
+        },
+        "alerts": [
+            {
+                "id": "1",
+                "type": "info",
+                "message": "You saved more this month than last month",
+                "date": "2024-03-15"
+            },
+            {
+                "id": "2",
+                "type": "warning",
+                "message": "Unusual spending detected in 'Dining'",
+                "date": "2024-03-12"
+            }
+        ],
+        "monthlySummary": [
+            {
+                "month": "Jan",
+                "savings": 2100
+            },
+            {
+                "month": "Feb",
+                "savings": 2300
+            },
+            {
+                "month": "Mar",
+                "savings": 2600
+            }
+        ]
+    }
+}
