@@ -223,7 +223,7 @@ export default function SplashScreen() {
         if (currentIndex < slides.length - 1) {
             slidesRef.current?.scrollToIndex({ index: currentIndex + 1 });
         } else {
-            navigation.replace('AuthLanding');
+            navigation.replace('MobileEntry');
         }
     };
 
@@ -234,7 +234,7 @@ export default function SplashScreen() {
     };
 
     const skip = () => {
-        navigation.replace('AuthLanding');
+        navigation.replace('MobileEntry');
     };
 
     // Auto-scroll logic

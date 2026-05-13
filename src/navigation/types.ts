@@ -1,5 +1,19 @@
 export type RootStackParamList = {
   Splash: undefined;
+  MobileEntry: undefined;
+  OTPVerification: { mobileNumber: string };
+  ConsentPermissions: undefined;
+  PANVerification: undefined;
+  AadhaarVerification: undefined;
+  DigiLockerConnect: undefined;
+  SelfieCapture: undefined;
+  FaceMatchProcessing: undefined;
+  DocumentUpload: undefined;
+  AddressVerification: undefined;
+  EmploymentDetails: undefined;
+  FATCADeclaration: undefined;
+  NomineeDetails: undefined;
+  SignatureUpload: undefined;
   AuthLanding: undefined;
   Login: undefined;
   SignUp: undefined;
